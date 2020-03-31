@@ -1,5 +1,5 @@
 # My-contacts
 
 Hi everyone!
-My name is Steve! My phone: +7 (977) 974-58-34
-Contact me, I'm using telegram!
+My name is Steve! My telephone: +7 (977) 974-██-██
+Oh, I decided to delete my telephone, because of sms-spammers.
